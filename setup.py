@@ -14,7 +14,7 @@ setuptools.setup(
     url="https://github.com/monalabs/mona-sdk",
     download_url='http://pypi.python.org/pypi/mona-sdk/',
     install_requires=[
-        "pyjwt>=1.7.1",
+        "pyjwt==1.7.1",
         "python-jose>=3.2.0",
         "requests-mock>=1.8.0",
     ],
